@@ -1,0 +1,2466 @@
+{
+  "q5_results": {
+    "openai/gpt-oss-120b": {
+      "model": "openai/gpt-oss-120b",
+      "total_samples": 50,
+      "correct_count": 4,
+      "failed_count": 46,
+      "accuracy": 8.0,
+      "total_time_seconds": 2.601518392562866,
+      "avg_time_per_question": 1.2442936611175537,
+      "results": [
+        {
+          "index": 0,
+          "original_question": "How do I ready a guinea pig cage for it's new occupants?",
+          "paraphrased_question": "How should I prepare a guinea pig cage for its new residents?",
+          "choices": [
+            "Provide the guinea pig with a cage full of a few inches of bedding made of ripped paper strips, you will also need to supply it with a water bottle and a food dish.",
+            "Provide the guinea pig with a cage full of a few inches of bedding made of ripped jeans material, you will also need to supply it with a water bottle and a food dish."
+          ],
+          "correct_answer": 0,
+          "predicted_answer": -1,
+          "llm_response": "",
+          "is_correct": false,
+          "was_truncated": true,
+          "time_seconds": 2.1526496410369873
+        },
+        {
+          "index": 1,
+          "original_question": "dresser",
+          "paraphrased_question": "What should you use to fix a stuck drawer in a dresser?",
+          "choices": [
+            "replace drawer with bobby pin ",
+            "finish, woodgrain with  bobby pin "
+          ],
+          "correct_answer": 1,
+          "predicted_answer": -1,
+          "llm_response": "",
+          "is_correct": false,
+          "was_truncated": false,
+          "time_seconds": 0.8205838203430176
+        },
+        {
+          "index": 2,
+          "original_question": "To fight Ivan Drago in Rocky for sega master system.",
+          "paraphrased_question": "In the Sega Master System version of Rocky, is it possible to battle Ivan Drago?",
+          "choices": [
+            "Drago isn't in this game because it was released before Rocky IV.",
+            "You have to defeat Apollo Creed and Clubber Lang first."
+          ],
+          "correct_answer": 1,
+          "predicted_answer": -1,
+          "llm_response": "",
+          "is_correct": false,
+          "was_truncated": true,
+          "time_seconds": 1.7275354862213135
+        },
+        {
+          "index": 3,
+          "original_question": "Make outdoor pillow.",
+          "paraphrased_question": "Create an outdoor cushion.",
+          "choices": [
+            "Blow into tin can and tie with rubber band.",
+            "Blow into trash bag and tie with rubber band."
+          ],
+          "correct_answer": 1,
+          "predicted_answer": -1,
+          "llm_response": "",
+          "is_correct": false,
+          "was_truncated": true,
+          "time_seconds": 1.880873441696167
+        },
+        {
+          "index": 4,
+          "original_question": "ice box",
+          "paraphrased_question": "What will an ice box become if you add water to it?",
+          "choices": [
+            "will turn into a cooler if you add water to it",
+            "will turn into a cooler if you add soda to it"
+          ],
+          "correct_answer": 0,
+          "predicted_answer": -1,
+          "llm_response": "",
+          "is_correct": false,
+          "was_truncated": false,
+          "time_seconds": 1.0390090942382812
+        },
+        {
+          "index": 5,
+          "original_question": "Remove soap scum from shower door.",
+          "paraphrased_question": "How can you eliminate soap residue from the shower door?",
+          "choices": [
+            "Rub hard with bed sheets, then rinse.",
+            "Rub hard with dryer sheets, then rinse."
+          ],
+          "correct_answer": 1,
+          "predicted_answer": -1,
+          "llm_response": "",
+          "is_correct": false,
+          "was_truncated": true,
+          "time_seconds": 1.9633328914642334
+        },
+        {
+          "index": 6,
+          "original_question": "Recycle a spray bottle for a new cleaner.",
+          "paraphrased_question": "How can you repurpose an old spray bottle for a different cleaning solution?",
+          "choices": [
+            "Open the top of the empty spray bottle and check for damage. Rinse the bottle then fill halfway with warm water. Replace the spray nozzle and pump a few times to clear the hose. Empty sparrow bottle and allow to dry before using with a new cleaner.",
+            "Open the top of the empty spray bottle and check for damage. Rinse the bottle then fill halfway with warm water. Replace the spray nozzle and pump a few times to clear the hose. Empty spray bottle and allow to dry before using with a new cleaner."
+          ],
+          "correct_answer": 1,
+          "predicted_answer": -1,
+          "llm_response": "",
+          "is_correct": false,
+          "was_truncated": false,
+          "time_seconds": 0.7816672325134277
+        },
+        {
+          "index": 7,
+          "original_question": "How do you attach toilet paper to a glass jar?",
+          "paraphrased_question": "What method can you use to secure toilet paper to a glass jar?",
+          "choices": [
+            "Press a piece of double-sided tape to the glass jar and then press the toilet paper onto the tape.",
+            "Spread mayonnaise all over the jar with your palms and then roll the jar in toilet paper."
+          ],
+          "correct_answer": 0,
+          "predicted_answer": 0,
+          "llm_response": "A",
+          "is_correct": true,
+          "was_truncated": false,
+          "time_seconds": 1.6730031967163086
+        },
+        {
+          "index": 8,
+          "original_question": "How to make tissue paper window decorations?",
+          "paraphrased_question": "What is the method for creating window decorations using tissue paper?",
+          "choices": [
+            "Find tissue paper and fold it in half. Take scissors and cut out pieces of the paper in the middle. When you are done tape it to your window.",
+            "Find tissue paper and fold it in half. Take scissors and tear out pieces of the paper in the middle. When you are done tape it to your window."
+          ],
+          "correct_answer": 0,
+          "predicted_answer": -1,
+          "llm_response": "",
+          "is_correct": false,
+          "was_truncated": false,
+          "time_seconds": 0.6559298038482666
+        },
+        {
+          "index": 9,
+          "original_question": "Neatly wrap up an extension cord.",
+          "paraphrased_question": "Tidy up an extension cord by wrapping it neatly.",
+          "choices": [
+            "Wrap the cord around your hand and elbow.",
+            "Wrap the cord around your hand and knee."
+          ],
+          "correct_answer": 0,
+          "predicted_answer": -1,
+          "llm_response": "",
+          "is_correct": false,
+          "was_truncated": true,
+          "time_seconds": 1.811880111694336
+        },
+        {
+          "index": 10,
+          "original_question": "Extend life of flowers in vase.",
+          "paraphrased_question": "How can you prolong the lifespan of flowers in a vase?",
+          "choices": [
+            "Add small amount of coffee in vase.",
+            "Add small amount of 7UP in vase."
+          ],
+          "correct_answer": 1,
+          "predicted_answer": -1,
+          "llm_response": "",
+          "is_correct": false,
+          "was_truncated": true,
+          "time_seconds": 0.6579370498657227
+        },
+        {
+          "index": 11,
+          "original_question": "how do you put eyelashes on?",
+          "paraphrased_question": "What is the method for applying false eyelashes?",
+          "choices": [
+            "glue them on with mascara.",
+            "put eyelash glue on the fake eyelashes and then let it get tacky. then, place it on top of your actual eyelashes and let it dry on."
+          ],
+          "correct_answer": 1,
+          "predicted_answer": -1,
+          "llm_response": "",
+          "is_correct": false,
+          "was_truncated": true,
+          "time_seconds": 1.4853084087371826
+        },
+        {
+          "index": 12,
+          "original_question": "Find spices easily in the kitchen.",
+          "paraphrased_question": "How can you quickly locate spices in your kitchen?",
+          "choices": [
+            "Arrange spices from hot to mild in the kitchen in order to find them by taste.",
+            "Arrange your spices alphabetically to make finding them easy."
+          ],
+          "correct_answer": 1,
+          "predicted_answer": -1,
+          "llm_response": "",
+          "is_correct": false,
+          "was_truncated": true,
+          "time_seconds": 0.8187558650970459
+        },
+        {
+          "index": 13,
+          "original_question": "peeler",
+          "paraphrased_question": "What is a peeler typically used for?",
+          "choices": [
+            "can be used as a decoration on a television ",
+            "can be used as a decoration on a sock "
+          ],
+          "correct_answer": 0,
+          "predicted_answer": -1,
+          "llm_response": "",
+          "is_correct": false,
+          "was_truncated": false,
+          "time_seconds": 0.916949987411499
+        },
+        {
+          "index": 14,
+          "original_question": "How to clean blinds without tearing them up",
+          "paraphrased_question": "What is the best way to clean blinds without damaging them?",
+          "choices": [
+            "Place a cloth on each side of a pair of tongs.",
+            "Find a feather duster, and cut the feathers off every two inches."
+          ],
+          "correct_answer": 0,
+          "predicted_answer": -1,
+          "llm_response": "",
+          "is_correct": false,
+          "was_truncated": true,
+          "time_seconds": 0.6072702407836914
+        },
+        {
+          "index": 15,
+          "original_question": "What material is a steel rocking chair made out of?",
+          "paraphrased_question": "What substance is used to construct the frame of a steel rocking chair?",
+          "choices": [
+            "The frame is steel and then fabric can be added if you wish.",
+            "The frame is plastic and fabric can be added if you wish"
+          ],
+          "correct_answer": 0,
+          "predicted_answer": -1,
+          "llm_response": "",
+          "is_correct": false,
+          "was_truncated": true,
+          "time_seconds": 1.0012400150299072
+        },
+        {
+          "index": 16,
+          "original_question": "To get a video game console for a cheap price,",
+          "paraphrased_question": "How can you find a video game console at a lower cost?",
+          "choices": [
+            "look for the console on a website that sells used goods.",
+            "look up which console is the cheapest one in store."
+          ],
+          "correct_answer": 0,
+          "predicted_answer": -1,
+          "llm_response": "",
+          "is_correct": false,
+          "was_truncated": false,
+          "time_seconds": 0.7661819458007812
+        },
+        {
+          "index": 17,
+          "original_question": "How do you properly prepare a steak.",
+          "paraphrased_question": "What is the correct method for preparing a steak?",
+          "choices": [
+            "Take the steak out of warm storage and let come to room temperature, generously add salt and pepper to both sides and let sit for 10 minutes.",
+            "Take the steak out of cold storage and let come to room temperature, generously add salt and pepper to both sides and let sit for 10 minutes."
+          ],
+          "correct_answer": 1,
+          "predicted_answer": -1,
+          "llm_response": "",
+          "is_correct": false,
+          "was_truncated": false,
+          "time_seconds": 0.7166612148284912
+        },
+        {
+          "index": 18,
+          "original_question": "To cream butter and sugar together, you can",
+          "paraphrased_question": "You can cream butter and sugar by",
+          "choices": [
+            "Place it in a bowl and use a hand warmer",
+            "Place in a bowl and use a hand mixer"
+          ],
+          "correct_answer": 1,
+          "predicted_answer": -1,
+          "llm_response": "",
+          "is_correct": false,
+          "was_truncated": true,
+          "time_seconds": 1.673771858215332
+        },
+        {
+          "index": 19,
+          "original_question": "How to best cut the meat to place on a grill?",
+          "paraphrased_question": "What is the best way to slice the meat before putting it on the grill?",
+          "choices": [
+            "Place a knife on the grill for around 15 minutes for the blade to be red hot. Gently push the knife through the meat to get a perfect cut.",
+            "Use a sharp knife or scissor and cut the meat properly as per the required size."
+          ],
+          "correct_answer": 1,
+          "predicted_answer": -1,
+          "llm_response": "",
+          "is_correct": false,
+          "was_truncated": false,
+          "time_seconds": 1.4180755615234375
+        },
+        {
+          "index": 20,
+          "original_question": "What alcohol do you pour for a mojito?",
+          "paraphrased_question": "Which alcoholic beverage is used to make a mojito?",
+          "choices": [
+            "Fill the glass with ice cubes so it’s half full. Pour in 2 shots of white rum & 1-2 shots of freshly squeezed orange juice.",
+            "Fill the glass with ice cubes so it’s all full. Pour in 2 shots of white rum & 1-2 shots of freshly squeezed orange juice."
+          ],
+          "correct_answer": 0,
+          "predicted_answer": 0,
+          "llm_response": "A",
+          "is_correct": true,
+          "was_truncated": false,
+          "time_seconds": 2.18853759765625
+        },
+        {
+          "index": 21,
+          "original_question": "How to start an automatic transmission car.",
+          "paraphrased_question": "What are the steps to start a car with an automatic transmission?",
+          "choices": [
+            "Be sure it is in park, insert key into ignition, twist ignition key to start the car, release the key right after, car is now running.",
+            "Be sure it is in park, insert key into ignition, twist ignition key to start the car, do not release the key right after, car is now running."
+          ],
+          "correct_answer": 0,
+          "predicted_answer": -1,
+          "llm_response": "",
+          "is_correct": false,
+          "was_truncated": true,
+          "time_seconds": 1.5408949851989746
+        },
+        {
+          "index": 22,
+          "original_question": "How to make sure all the clocks in the house are set accurately?",
+          "paraphrased_question": "What is the best way to ensure that all the clocks in your home are correctly synchronized?",
+          "choices": [
+            "Get a solar clock for a reference and place it just outside a window that gets lots of sun. Use a system of call and response once a month, having one person stationed at the solar clock who yells out the correct time and have another person move to each of the indoor clocks to check if they are showing the right time. Adjust as necessary.",
+            "Replace all wind-ups with digital clocks. That way, you set them once, and that's it. Check the batteries once a year or if you notice anything looks a little off."
+          ],
+          "correct_answer": 1,
+          "predicted_answer": 1,
+          "llm_response": "B",
+          "is_correct": true,
+          "was_truncated": false,
+          "time_seconds": 1.5716567039489746
+        },
+        {
+          "index": 23,
+          "original_question": "How do you make plain toast?",
+          "paraphrased_question": "What is the process for toasting a slice of bread?",
+          "choices": [
+            "Gather a slice of bread and a toaster, place the bread on the top of the toaster and push the button down, when the button pops up your toast is ready.",
+            "Gather a slice of bread and a toaster, place the bread into the toaster and push the button down, when the button pops up your toast is ready."
+          ],
+          "correct_answer": 1,
+          "predicted_answer": -1,
+          "llm_response": "",
+          "is_correct": false,
+          "was_truncated": false,
+          "time_seconds": 0.8114516735076904
+        },
+        {
+          "index": 24,
+          "original_question": "Make a bulletin board.",
+          "paraphrased_question": "Create a bulletin board.",
+          "choices": [
+            "Glue wine corks into a picture frame.",
+            "Glue wine bottles into a picture frame."
+          ],
+          "correct_answer": 0,
+          "predicted_answer": -1,
+          "llm_response": "",
+          "is_correct": false,
+          "was_truncated": true,
+          "time_seconds": 1.1206016540527344
+        },
+        {
+          "index": 25,
+          "original_question": "How do you make raw nuts have more flavor.",
+          "paraphrased_question": "What methods can be used to enhance the flavor of raw nuts?",
+          "choices": [
+            "Boil the nuts in milk for about 20 minutes while stirring constantly.",
+            "Toast the nuts in a skillet for a few minutes while stirring constantly."
+          ],
+          "correct_answer": 1,
+          "predicted_answer": -1,
+          "llm_response": "",
+          "is_correct": false,
+          "was_truncated": true,
+          "time_seconds": 1.2570321559906006
+        },
+        {
+          "index": 26,
+          "original_question": "To prepare carrots before cooking with them, you can",
+          "paraphrased_question": "Before cooking with carrots, you can prepare them by",
+          "choices": [
+            "Run them in the sink under boiling water",
+            "Run them in the sink under cold water"
+          ],
+          "correct_answer": 1,
+          "predicted_answer": -1,
+          "llm_response": "",
+          "is_correct": false,
+          "was_truncated": true,
+          "time_seconds": 1.2356858253479004
+        },
+        {
+          "index": 27,
+          "original_question": "plastic bag",
+          "paraphrased_question": "What can a plastic bag transport?",
+          "choices": [
+            "can carry foil ",
+            "can carry pole "
+          ],
+          "correct_answer": 0,
+          "predicted_answer": -1,
+          "llm_response": "",
+          "is_correct": false,
+          "was_truncated": true,
+          "time_seconds": 0.5427191257476807
+        },
+        {
+          "index": 28,
+          "original_question": "To discourage house flies from living in your home,",
+          "paraphrased_question": "To prevent house flies from inhabiting your home,",
+          "choices": [
+            "keep basil plants in the kitchen or windows.",
+            "keep lavender plants in the kitchen or window."
+          ],
+          "correct_answer": 0,
+          "predicted_answer": -1,
+          "llm_response": "",
+          "is_correct": false,
+          "was_truncated": true,
+          "time_seconds": 1.5458931922912598
+        },
+        {
+          "index": 29,
+          "original_question": "How to make Caramel Chocolate chip Girl Scout Cookie Vanilla Ice cream at home.",
+          "paraphrased_question": "How can you create Caramel Chocolate Chip Girl Scout Cookie Vanilla Ice Cream at home?",
+          "choices": [
+            "In a medium mixing bowl combine 7 cups chilled Caramelized Onions, 2 14 oz. cans sweetened condensed milk 1 teaspoon Vanilla extract.  Beat with an electric mixer until soft Peaks form. Stir in 1 1/2 cups Caramel Chocolate Chip Girl Scout cookies (Sliced in 3/4\" strips or crumbles)  and 1/2 cup Chocolate chips.  Transfer mixture to two 8x8x2 inch baking pans. Freeze about 8 hours until firm.",
+            "In a medium mixing bowl combine 7 cups chilled whipping cream, 2 14 oz. cans sweetened condensed milk 1 teaspoon Vanilla extract.  Beat with an electric mixer until soft Peaks form. Stir in 1 1/2 cups Caramel Chocolate Chip Girl Scout cookies (Sliced in 3/4\" strips or crumbles)  and 1/2 cup Chocolate chips.  Transfer mixture to two 8x8x2 inch baking pans. Freeze about 8 hours until firm."
+          ],
+          "correct_answer": 1,
+          "predicted_answer": -1,
+          "llm_response": "",
+          "is_correct": false,
+          "was_truncated": false,
+          "time_seconds": 1.028773307800293
+        },
+        {
+          "index": 30,
+          "original_question": "To combine cake ingredients.",
+          "paraphrased_question": "How to mix the components for the cake?",
+          "choices": [
+            "In a large mixing bowl, combined three egg yolks and half of the white granulated sugar and whisk till it reaches a pale red berry mixture.",
+            "In a large mixing bowl, combined three egg yolks and half of the white granulated sugar and whisk till it reaches a pale lemony yellow mixture."
+          ],
+          "correct_answer": 1,
+          "predicted_answer": -1,
+          "llm_response": "",
+          "is_correct": false,
+          "was_truncated": true,
+          "time_seconds": 1.5576481819152832
+        },
+        {
+          "index": 31,
+          "original_question": "To prevent gunk buildup in cup holders of a car,",
+          "paraphrased_question": "To stop debris accumulation in a vehicle's cup holders,",
+          "choices": [
+            "place coffee filters inside of the cup holders.",
+            "pour a thin layer of oil into the cup holders."
+          ],
+          "correct_answer": 0,
+          "predicted_answer": -1,
+          "llm_response": "",
+          "is_correct": false,
+          "was_truncated": true,
+          "time_seconds": 0.7096126079559326
+        },
+        {
+          "index": 32,
+          "original_question": "To quarter biscuits, you can",
+          "paraphrased_question": "How can you divide a biscuit into four equal parts?",
+          "choices": [
+            "Take the biscuit in your mouth and tear it into quarters",
+            "Take the biscuit in your hand and tear it into quarters"
+          ],
+          "correct_answer": 1,
+          "predicted_answer": -1,
+          "llm_response": "",
+          "is_correct": false,
+          "was_truncated": true,
+          "time_seconds": 1.7738730907440186
+        },
+        {
+          "index": 33,
+          "original_question": "To make a bedroom temperature colder without a fan or air conditioner,",
+          "paraphrased_question": "How can you lower the temperature in a bedroom without using a fan or air conditioner?",
+          "choices": [
+            "hang up a thick, and dark blanket over the windows and then ensure their is proper air flow in the room.",
+            "wave a large blanket up and down to generate a gust of wind to cool the room down when it gets too hot."
+          ],
+          "correct_answer": 0,
+          "predicted_answer": -1,
+          "llm_response": "",
+          "is_correct": false,
+          "was_truncated": false,
+          "time_seconds": 0.6474435329437256
+        },
+        {
+          "index": 34,
+          "original_question": "how to get fluffy cookies",
+          "paraphrased_question": "What's the method for making cookies that are light and airy?",
+          "choices": [
+            "Chill cookie dough before putting it on a baking sheet. This will help prevent your butter from flattening and losing its fluffy texture.",
+            "Chill cookie dough before putting it on a parchment line fish platter. This will help prevent your butter from flattening and losing its fluffy texture."
+          ],
+          "correct_answer": 0,
+          "predicted_answer": -1,
+          "llm_response": "",
+          "is_correct": false,
+          "was_truncated": true,
+          "time_seconds": 1.763895034790039
+        },
+        {
+          "index": 35,
+          "original_question": "How to brine a turkey before cooking?",
+          "paraphrased_question": "What is the method for preparing a turkey by soaking it in a seasoned saltwater solution before cooking?",
+          "choices": [
+            "Boil water with spices and any adjuncts you'd like, bring the water to a cool temperature and then submerge the turkey for several hours in the cold brine",
+            "Boil water with spices and any adjuncts you'd like, bring the water to a boiling temperature and then submerge the turkey for several hours in the hot brine"
+          ],
+          "correct_answer": 0,
+          "predicted_answer": -1,
+          "llm_response": "",
+          "is_correct": false,
+          "was_truncated": true,
+          "time_seconds": 0.648430347442627
+        },
+        {
+          "index": 36,
+          "original_question": "To spare the plant while picking lettuce",
+          "paraphrased_question": "How to pick lettuce without damaging the plant?",
+          "choices": [
+            "grab one leaf with one hand, bend the plant stalk near the leaf with the other hand, and pull it down and away from the leaf.",
+            "grab one leaf with one hand, hold the stalk near the leaf with the other hand, and then pull the leaf down breaking it from the plant."
+          ],
+          "correct_answer": 1,
+          "predicted_answer": -1,
+          "llm_response": "",
+          "is_correct": false,
+          "was_truncated": true,
+          "time_seconds": 1.885286808013916
+        },
+        {
+          "index": 37,
+          "original_question": "To cook perfectly golden pancakes,",
+          "paraphrased_question": "To achieve perfectly golden pancakes,",
+          "choices": [
+            "keep the temperature high and cook quickly.",
+            "keep the temperature low for a longer time."
+          ],
+          "correct_answer": 1,
+          "predicted_answer": -1,
+          "llm_response": "",
+          "is_correct": false,
+          "was_truncated": true,
+          "time_seconds": 0.8516335487365723
+        },
+        {
+          "index": 38,
+          "original_question": "generate poetry by using random words.",
+          "paraphrased_question": "Create a poem using a collection of randomly selected words.",
+          "choices": [
+            "Find a bunch of letters you like, about 150 of them.  Print them on paper and cut them from one another.  Place the paper pieces in a cup.  Turn the cup upside down. Rewrite the letters you can see as words, add a few of your own and call it poetry.",
+            "Find a bunch of words you like, about 50 of them.  Print them on paper and cut them from one another.  Place the paper pieces in a cup.  Turn the cup upside down. Rewrite the words you can see, add a few of your own and call it poetry."
+          ],
+          "correct_answer": 1,
+          "predicted_answer": -1,
+          "llm_response": "",
+          "is_correct": false,
+          "was_truncated": false,
+          "time_seconds": 0.8879590034484863
+        },
+        {
+          "index": 39,
+          "original_question": "To fill a bucket with sand",
+          "paraphrased_question": "How would you fill a bucket using sand?",
+          "choices": [
+            "Take a smaller pail and fill it with sand. Dump it on the ground. Repeat until the bucket is full.",
+            "Take a smaller pail and fill it with sand. Dump it into the bucket. Repeat until the bucket is full."
+          ],
+          "correct_answer": 1,
+          "predicted_answer": -1,
+          "llm_response": "",
+          "is_correct": false,
+          "was_truncated": true,
+          "time_seconds": 1.2440195083618164
+        },
+        {
+          "index": 40,
+          "original_question": "To set the J bolt into the concrete mix in the mold.",
+          "paraphrased_question": "How do you insert the J bolt into the concrete mixture in the form before it sets?",
+          "choices": [
+            "Push in the J bolt into the poured concrete mix in the mold before it cures, making sure it's straight and square.",
+            "Push in the J bolt into the poured concrete mix in the mold after it cures, making sure it's straight and square."
+          ],
+          "correct_answer": 0,
+          "predicted_answer": -1,
+          "llm_response": "",
+          "is_correct": false,
+          "was_truncated": true,
+          "time_seconds": 1.724656581878662
+        },
+        {
+          "index": 41,
+          "original_question": "Eliminate odors in the laundry room.",
+          "paraphrased_question": "How can you remove unpleasant smells from the laundry area?",
+          "choices": [
+            "Spray dirty laundry with air freshener, and open a window to clear the room of smell.",
+            "Combine baking soda and essential oil.  Place in an open jar in laundry room."
+          ],
+          "correct_answer": 1,
+          "predicted_answer": -1,
+          "llm_response": "",
+          "is_correct": false,
+          "was_truncated": false,
+          "time_seconds": 0.8566365242004395
+        },
+        {
+          "index": 42,
+          "original_question": "How do I fill holes and tiny gaps in the concrete when making a concrete countertop?",
+          "paraphrased_question": "What is the best method to repair small holes and cracks in concrete during the construction of a countertop?",
+          "choices": [
+            "Use  a concrete slurry",
+            "Use  a concrete brush"
+          ],
+          "correct_answer": 0,
+          "predicted_answer": -1,
+          "llm_response": "",
+          "is_correct": false,
+          "was_truncated": true,
+          "time_seconds": 1.0832703113555908
+        },
+        {
+          "index": 43,
+          "original_question": "a bucket",
+          "paraphrased_question": "What can a pail contain?",
+          "choices": [
+            "can hold acid ",
+            "can hold paint "
+          ],
+          "correct_answer": 1,
+          "predicted_answer": -1,
+          "llm_response": "",
+          "is_correct": false,
+          "was_truncated": true,
+          "time_seconds": 1.624150037765503
+        },
+        {
+          "index": 44,
+          "original_question": "When I'm deep frying a turkey, how defrosted should it be?",
+          "paraphrased_question": "How thawed should the turkey be before I deep fry it?",
+          "choices": [
+            "It should be completely defrosted, otherwise the oil may boil over and start a fire.",
+            "It should be completely frozen, otherwise the oil may boil over and start a fire."
+          ],
+          "correct_answer": 0,
+          "predicted_answer": -1,
+          "llm_response": "",
+          "is_correct": false,
+          "was_truncated": true,
+          "time_seconds": 0.6636662483215332
+        },
+        {
+          "index": 45,
+          "original_question": "How do you remove gum from being stuck in hair?",
+          "paraphrased_question": "What methods can be used to get gum out of hair when it’s stuck there?",
+          "choices": [
+            "Apply an ice cube and gently remove the hardened gum.",
+            "Use a blow dryer and gently remove melted gum."
+          ],
+          "correct_answer": 0,
+          "predicted_answer": -1,
+          "llm_response": "",
+          "is_correct": false,
+          "was_truncated": false,
+          "time_seconds": 0.9525668621063232
+        },
+        {
+          "index": 46,
+          "original_question": "fire",
+          "paraphrased_question": "What can fire do to humans and water?",
+          "choices": [
+            "can melt humans ",
+            "can melt water "
+          ],
+          "correct_answer": 0,
+          "predicted_answer": -1,
+          "llm_response": "",
+          "is_correct": false,
+          "was_truncated": true,
+          "time_seconds": 1.5486550331115723
+        },
+        {
+          "index": 47,
+          "original_question": "How long should liquid nails dry?",
+          "paraphrased_question": "How much time does liquid nails need to dry properly?",
+          "choices": [
+            "Just because liquid nails look dry in a short period of time it does not mean it is dried to maximum strength.",
+            "Liquid nails should be adhered to surfaces for 24 hours, taking a full week to completely cure to maximum strength"
+          ],
+          "correct_answer": 1,
+          "predicted_answer": -1,
+          "llm_response": "",
+          "is_correct": false,
+          "was_truncated": false,
+          "time_seconds": 0.8076519966125488
+        },
+        {
+          "index": 48,
+          "original_question": "To get the best deal at amusement parks,",
+          "paraphrased_question": "For the most cost-effective experience at amusement parks,",
+          "choices": [
+            "buy a seasonal pass, so you can go all winter long for one discounted rate.",
+            "buy a seasonal pass, so you can go all summer long for one discounted rate."
+          ],
+          "correct_answer": 1,
+          "predicted_answer": -1,
+          "llm_response": "",
+          "is_correct": false,
+          "was_truncated": true,
+          "time_seconds": 1.989480972290039
+        },
+        {
+          "index": 49,
+          "original_question": "One seeks to make a cord weave.",
+          "paraphrased_question": "Someone aims to create a woven cord.",
+          "choices": [
+            "One will need a short amount of cord.",
+            "One will need a long amount of cord."
+          ],
+          "correct_answer": 1,
+          "predicted_answer": 1,
+          "llm_response": "B",
+          "is_correct": true,
+          "was_truncated": false,
+          "time_seconds": 1.5822837352752686
+        }
+      ]
+    },
+    "google/gemini-2.0-flash-lite-001": {
+      "model": "google/gemini-2.0-flash-lite-001",
+      "total_samples": 50,
+      "correct_count": 45,
+      "failed_count": 1,
+      "accuracy": 90.0,
+      "total_time_seconds": 1.7536334991455078,
+      "avg_time_per_question": 0.7790771102905274,
+      "results": [
+        {
+          "index": 0,
+          "original_question": "How do I ready a guinea pig cage for it's new occupants?",
+          "paraphrased_question": "How should I prepare a guinea pig cage for its new residents?",
+          "choices": [
+            "Provide the guinea pig with a cage full of a few inches of bedding made of ripped paper strips, you will also need to supply it with a water bottle and a food dish.",
+            "Provide the guinea pig with a cage full of a few inches of bedding made of ripped jeans material, you will also need to supply it with a water bottle and a food dish."
+          ],
+          "correct_answer": 0,
+          "predicted_answer": 0,
+          "llm_response": "A",
+          "is_correct": true,
+          "was_truncated": false,
+          "time_seconds": 0.5296578407287598
+        },
+        {
+          "index": 1,
+          "original_question": "dresser",
+          "paraphrased_question": "What should you use to fix a stuck drawer in a dresser?",
+          "choices": [
+            "replace drawer with bobby pin ",
+            "finish, woodgrain with  bobby pin "
+          ],
+          "correct_answer": 1,
+          "predicted_answer": 0,
+          "llm_response": "A",
+          "is_correct": false,
+          "was_truncated": false,
+          "time_seconds": 0.5074563026428223
+        },
+        {
+          "index": 2,
+          "original_question": "To fight Ivan Drago in Rocky for sega master system.",
+          "paraphrased_question": "In the Sega Master System version of Rocky, is it possible to battle Ivan Drago?",
+          "choices": [
+            "Drago isn't in this game because it was released before Rocky IV.",
+            "You have to defeat Apollo Creed and Clubber Lang first."
+          ],
+          "correct_answer": 1,
+          "predicted_answer": 0,
+          "llm_response": "A",
+          "is_correct": false,
+          "was_truncated": false,
+          "time_seconds": 0.5713236331939697
+        },
+        {
+          "index": 3,
+          "original_question": "Make outdoor pillow.",
+          "paraphrased_question": "Create an outdoor cushion.",
+          "choices": [
+            "Blow into tin can and tie with rubber band.",
+            "Blow into trash bag and tie with rubber band."
+          ],
+          "correct_answer": 1,
+          "predicted_answer": 1,
+          "llm_response": "B",
+          "is_correct": true,
+          "was_truncated": false,
+          "time_seconds": 0.7084393501281738
+        },
+        {
+          "index": 4,
+          "original_question": "ice box",
+          "paraphrased_question": "What will an ice box become if you add water to it?",
+          "choices": [
+            "will turn into a cooler if you add water to it",
+            "will turn into a cooler if you add soda to it"
+          ],
+          "correct_answer": 0,
+          "predicted_answer": 0,
+          "llm_response": "A",
+          "is_correct": true,
+          "was_truncated": false,
+          "time_seconds": 0.5336582660675049
+        },
+        {
+          "index": 5,
+          "original_question": "Remove soap scum from shower door.",
+          "paraphrased_question": "How can you eliminate soap residue from the shower door?",
+          "choices": [
+            "Rub hard with bed sheets, then rinse.",
+            "Rub hard with dryer sheets, then rinse."
+          ],
+          "correct_answer": 1,
+          "predicted_answer": 1,
+          "llm_response": "B",
+          "is_correct": true,
+          "was_truncated": false,
+          "time_seconds": 0.888948917388916
+        },
+        {
+          "index": 6,
+          "original_question": "Recycle a spray bottle for a new cleaner.",
+          "paraphrased_question": "How can you repurpose an old spray bottle for a different cleaning solution?",
+          "choices": [
+            "Open the top of the empty spray bottle and check for damage. Rinse the bottle then fill halfway with warm water. Replace the spray nozzle and pump a few times to clear the hose. Empty sparrow bottle and allow to dry before using with a new cleaner.",
+            "Open the top of the empty spray bottle and check for damage. Rinse the bottle then fill halfway with warm water. Replace the spray nozzle and pump a few times to clear the hose. Empty spray bottle and allow to dry before using with a new cleaner."
+          ],
+          "correct_answer": 1,
+          "predicted_answer": 1,
+          "llm_response": "B",
+          "is_correct": true,
+          "was_truncated": false,
+          "time_seconds": 0.7696177959442139
+        },
+        {
+          "index": 7,
+          "original_question": "How do you attach toilet paper to a glass jar?",
+          "paraphrased_question": "What method can you use to secure toilet paper to a glass jar?",
+          "choices": [
+            "Press a piece of double-sided tape to the glass jar and then press the toilet paper onto the tape.",
+            "Spread mayonnaise all over the jar with your palms and then roll the jar in toilet paper."
+          ],
+          "correct_answer": 0,
+          "predicted_answer": 0,
+          "llm_response": "A",
+          "is_correct": true,
+          "was_truncated": false,
+          "time_seconds": 1.1685175895690918
+        },
+        {
+          "index": 8,
+          "original_question": "How to make tissue paper window decorations?",
+          "paraphrased_question": "What is the method for creating window decorations using tissue paper?",
+          "choices": [
+            "Find tissue paper and fold it in half. Take scissors and cut out pieces of the paper in the middle. When you are done tape it to your window.",
+            "Find tissue paper and fold it in half. Take scissors and tear out pieces of the paper in the middle. When you are done tape it to your window."
+          ],
+          "correct_answer": 0,
+          "predicted_answer": 0,
+          "llm_response": "A",
+          "is_correct": true,
+          "was_truncated": false,
+          "time_seconds": 0.725999116897583
+        },
+        {
+          "index": 9,
+          "original_question": "Neatly wrap up an extension cord.",
+          "paraphrased_question": "Tidy up an extension cord by wrapping it neatly.",
+          "choices": [
+            "Wrap the cord around your hand and elbow.",
+            "Wrap the cord around your hand and knee."
+          ],
+          "correct_answer": 0,
+          "predicted_answer": 0,
+          "llm_response": "A",
+          "is_correct": true,
+          "was_truncated": false,
+          "time_seconds": 0.5004470348358154
+        },
+        {
+          "index": 10,
+          "original_question": "Extend life of flowers in vase.",
+          "paraphrased_question": "How can you prolong the lifespan of flowers in a vase?",
+          "choices": [
+            "Add small amount of coffee in vase.",
+            "Add small amount of 7UP in vase."
+          ],
+          "correct_answer": 1,
+          "predicted_answer": 1,
+          "llm_response": "B",
+          "is_correct": true,
+          "was_truncated": false,
+          "time_seconds": 0.8969430923461914
+        },
+        {
+          "index": 11,
+          "original_question": "how do you put eyelashes on?",
+          "paraphrased_question": "What is the method for applying false eyelashes?",
+          "choices": [
+            "glue them on with mascara.",
+            "put eyelash glue on the fake eyelashes and then let it get tacky. then, place it on top of your actual eyelashes and let it dry on."
+          ],
+          "correct_answer": 1,
+          "predicted_answer": 1,
+          "llm_response": "B",
+          "is_correct": true,
+          "was_truncated": false,
+          "time_seconds": 0.5763657093048096
+        },
+        {
+          "index": 12,
+          "original_question": "Find spices easily in the kitchen.",
+          "paraphrased_question": "How can you quickly locate spices in your kitchen?",
+          "choices": [
+            "Arrange spices from hot to mild in the kitchen in order to find them by taste.",
+            "Arrange your spices alphabetically to make finding them easy."
+          ],
+          "correct_answer": 1,
+          "predicted_answer": 1,
+          "llm_response": "B",
+          "is_correct": true,
+          "was_truncated": false,
+          "time_seconds": 0.6284322738647461
+        },
+        {
+          "index": 13,
+          "original_question": "peeler",
+          "paraphrased_question": "What is a peeler typically used for?",
+          "choices": [
+            "can be used as a decoration on a television ",
+            "can be used as a decoration on a sock "
+          ],
+          "correct_answer": 0,
+          "predicted_answer": -1,
+          "llm_response": "None of the above.",
+          "is_correct": false,
+          "was_truncated": false,
+          "time_seconds": 0.4994518756866455
+        },
+        {
+          "index": 14,
+          "original_question": "How to clean blinds without tearing them up",
+          "paraphrased_question": "What is the best way to clean blinds without damaging them?",
+          "choices": [
+            "Place a cloth on each side of a pair of tongs.",
+            "Find a feather duster, and cut the feathers off every two inches."
+          ],
+          "correct_answer": 0,
+          "predicted_answer": 0,
+          "llm_response": "A",
+          "is_correct": true,
+          "was_truncated": false,
+          "time_seconds": 0.6016879081726074
+        },
+        {
+          "index": 15,
+          "original_question": "What material is a steel rocking chair made out of?",
+          "paraphrased_question": "What substance is used to construct the frame of a steel rocking chair?",
+          "choices": [
+            "The frame is steel and then fabric can be added if you wish.",
+            "The frame is plastic and fabric can be added if you wish"
+          ],
+          "correct_answer": 0,
+          "predicted_answer": 0,
+          "llm_response": "A",
+          "is_correct": true,
+          "was_truncated": false,
+          "time_seconds": 0.6134507656097412
+        },
+        {
+          "index": 16,
+          "original_question": "To get a video game console for a cheap price,",
+          "paraphrased_question": "How can you find a video game console at a lower cost?",
+          "choices": [
+            "look for the console on a website that sells used goods.",
+            "look up which console is the cheapest one in store."
+          ],
+          "correct_answer": 0,
+          "predicted_answer": 0,
+          "llm_response": "A",
+          "is_correct": true,
+          "was_truncated": false,
+          "time_seconds": 0.6224360466003418
+        },
+        {
+          "index": 17,
+          "original_question": "How do you properly prepare a steak.",
+          "paraphrased_question": "What is the correct method for preparing a steak?",
+          "choices": [
+            "Take the steak out of warm storage and let come to room temperature, generously add salt and pepper to both sides and let sit for 10 minutes.",
+            "Take the steak out of cold storage and let come to room temperature, generously add salt and pepper to both sides and let sit for 10 minutes."
+          ],
+          "correct_answer": 1,
+          "predicted_answer": 1,
+          "llm_response": "B",
+          "is_correct": true,
+          "was_truncated": false,
+          "time_seconds": 0.8503165245056152
+        },
+        {
+          "index": 18,
+          "original_question": "To cream butter and sugar together, you can",
+          "paraphrased_question": "You can cream butter and sugar by",
+          "choices": [
+            "Place it in a bowl and use a hand warmer",
+            "Place in a bowl and use a hand mixer"
+          ],
+          "correct_answer": 1,
+          "predicted_answer": 1,
+          "llm_response": "B",
+          "is_correct": true,
+          "was_truncated": false,
+          "time_seconds": 0.6104426383972168
+        },
+        {
+          "index": 19,
+          "original_question": "How to best cut the meat to place on a grill?",
+          "paraphrased_question": "What is the best way to slice the meat before putting it on the grill?",
+          "choices": [
+            "Place a knife on the grill for around 15 minutes for the blade to be red hot. Gently push the knife through the meat to get a perfect cut.",
+            "Use a sharp knife or scissor and cut the meat properly as per the required size."
+          ],
+          "correct_answer": 1,
+          "predicted_answer": 1,
+          "llm_response": "B",
+          "is_correct": true,
+          "was_truncated": false,
+          "time_seconds": 0.9386396408081055
+        },
+        {
+          "index": 20,
+          "original_question": "What alcohol do you pour for a mojito?",
+          "paraphrased_question": "Which alcoholic beverage is used to make a mojito?",
+          "choices": [
+            "Fill the glass with ice cubes so it’s half full. Pour in 2 shots of white rum & 1-2 shots of freshly squeezed orange juice.",
+            "Fill the glass with ice cubes so it’s all full. Pour in 2 shots of white rum & 1-2 shots of freshly squeezed orange juice."
+          ],
+          "correct_answer": 0,
+          "predicted_answer": 0,
+          "llm_response": "A",
+          "is_correct": true,
+          "was_truncated": false,
+          "time_seconds": 0.9526143074035645
+        },
+        {
+          "index": 21,
+          "original_question": "How to start an automatic transmission car.",
+          "paraphrased_question": "What are the steps to start a car with an automatic transmission?",
+          "choices": [
+            "Be sure it is in park, insert key into ignition, twist ignition key to start the car, release the key right after, car is now running.",
+            "Be sure it is in park, insert key into ignition, twist ignition key to start the car, do not release the key right after, car is now running."
+          ],
+          "correct_answer": 0,
+          "predicted_answer": 0,
+          "llm_response": "A",
+          "is_correct": true,
+          "was_truncated": false,
+          "time_seconds": 0.8623361587524414
+        },
+        {
+          "index": 22,
+          "original_question": "How to make sure all the clocks in the house are set accurately?",
+          "paraphrased_question": "What is the best way to ensure that all the clocks in your home are correctly synchronized?",
+          "choices": [
+            "Get a solar clock for a reference and place it just outside a window that gets lots of sun. Use a system of call and response once a month, having one person stationed at the solar clock who yells out the correct time and have another person move to each of the indoor clocks to check if they are showing the right time. Adjust as necessary.",
+            "Replace all wind-ups with digital clocks. That way, you set them once, and that's it. Check the batteries once a year or if you notice anything looks a little off."
+          ],
+          "correct_answer": 1,
+          "predicted_answer": 1,
+          "llm_response": "B",
+          "is_correct": true,
+          "was_truncated": false,
+          "time_seconds": 0.8443357944488525
+        },
+        {
+          "index": 23,
+          "original_question": "How do you make plain toast?",
+          "paraphrased_question": "What is the process for toasting a slice of bread?",
+          "choices": [
+            "Gather a slice of bread and a toaster, place the bread on the top of the toaster and push the button down, when the button pops up your toast is ready.",
+            "Gather a slice of bread and a toaster, place the bread into the toaster and push the button down, when the button pops up your toast is ready."
+          ],
+          "correct_answer": 1,
+          "predicted_answer": 1,
+          "llm_response": "B",
+          "is_correct": true,
+          "was_truncated": false,
+          "time_seconds": 0.5326600074768066
+        },
+        {
+          "index": 24,
+          "original_question": "Make a bulletin board.",
+          "paraphrased_question": "Create a bulletin board.",
+          "choices": [
+            "Glue wine corks into a picture frame.",
+            "Glue wine bottles into a picture frame."
+          ],
+          "correct_answer": 0,
+          "predicted_answer": 0,
+          "llm_response": "A",
+          "is_correct": true,
+          "was_truncated": false,
+          "time_seconds": 0.9039313793182373
+        },
+        {
+          "index": 25,
+          "original_question": "How do you make raw nuts have more flavor.",
+          "paraphrased_question": "What methods can be used to enhance the flavor of raw nuts?",
+          "choices": [
+            "Boil the nuts in milk for about 20 minutes while stirring constantly.",
+            "Toast the nuts in a skillet for a few minutes while stirring constantly."
+          ],
+          "correct_answer": 1,
+          "predicted_answer": 1,
+          "llm_response": "B",
+          "is_correct": true,
+          "was_truncated": false,
+          "time_seconds": 0.590712308883667
+        },
+        {
+          "index": 26,
+          "original_question": "To prepare carrots before cooking with them, you can",
+          "paraphrased_question": "Before cooking with carrots, you can prepare them by",
+          "choices": [
+            "Run them in the sink under boiling water",
+            "Run them in the sink under cold water"
+          ],
+          "correct_answer": 1,
+          "predicted_answer": 1,
+          "llm_response": "B",
+          "is_correct": true,
+          "was_truncated": false,
+          "time_seconds": 1.1715219020843506
+        },
+        {
+          "index": 27,
+          "original_question": "plastic bag",
+          "paraphrased_question": "What can a plastic bag transport?",
+          "choices": [
+            "can carry foil ",
+            "can carry pole "
+          ],
+          "correct_answer": 0,
+          "predicted_answer": 0,
+          "llm_response": "A",
+          "is_correct": true,
+          "was_truncated": false,
+          "time_seconds": 0.8819456100463867
+        },
+        {
+          "index": 28,
+          "original_question": "To discourage house flies from living in your home,",
+          "paraphrased_question": "To prevent house flies from inhabiting your home,",
+          "choices": [
+            "keep basil plants in the kitchen or windows.",
+            "keep lavender plants in the kitchen or window."
+          ],
+          "correct_answer": 0,
+          "predicted_answer": 0,
+          "llm_response": "A",
+          "is_correct": true,
+          "was_truncated": false,
+          "time_seconds": 0.62729811668396
+        },
+        {
+          "index": 29,
+          "original_question": "How to make Caramel Chocolate chip Girl Scout Cookie Vanilla Ice cream at home.",
+          "paraphrased_question": "How can you create Caramel Chocolate Chip Girl Scout Cookie Vanilla Ice Cream at home?",
+          "choices": [
+            "In a medium mixing bowl combine 7 cups chilled Caramelized Onions, 2 14 oz. cans sweetened condensed milk 1 teaspoon Vanilla extract.  Beat with an electric mixer until soft Peaks form. Stir in 1 1/2 cups Caramel Chocolate Chip Girl Scout cookies (Sliced in 3/4\" strips or crumbles)  and 1/2 cup Chocolate chips.  Transfer mixture to two 8x8x2 inch baking pans. Freeze about 8 hours until firm.",
+            "In a medium mixing bowl combine 7 cups chilled whipping cream, 2 14 oz. cans sweetened condensed milk 1 teaspoon Vanilla extract.  Beat with an electric mixer until soft Peaks form. Stir in 1 1/2 cups Caramel Chocolate Chip Girl Scout cookies (Sliced in 3/4\" strips or crumbles)  and 1/2 cup Chocolate chips.  Transfer mixture to two 8x8x2 inch baking pans. Freeze about 8 hours until firm."
+          ],
+          "correct_answer": 1,
+          "predicted_answer": 1,
+          "llm_response": "B",
+          "is_correct": true,
+          "was_truncated": false,
+          "time_seconds": 0.908951997756958
+        },
+        {
+          "index": 30,
+          "original_question": "To combine cake ingredients.",
+          "paraphrased_question": "How to mix the components for the cake?",
+          "choices": [
+            "In a large mixing bowl, combined three egg yolks and half of the white granulated sugar and whisk till it reaches a pale red berry mixture.",
+            "In a large mixing bowl, combined three egg yolks and half of the white granulated sugar and whisk till it reaches a pale lemony yellow mixture."
+          ],
+          "correct_answer": 1,
+          "predicted_answer": 1,
+          "llm_response": "B",
+          "is_correct": true,
+          "was_truncated": false,
+          "time_seconds": 0.6343026161193848
+        },
+        {
+          "index": 31,
+          "original_question": "To prevent gunk buildup in cup holders of a car,",
+          "paraphrased_question": "To stop debris accumulation in a vehicle's cup holders,",
+          "choices": [
+            "place coffee filters inside of the cup holders.",
+            "pour a thin layer of oil into the cup holders."
+          ],
+          "correct_answer": 0,
+          "predicted_answer": 0,
+          "llm_response": "A",
+          "is_correct": true,
+          "was_truncated": false,
+          "time_seconds": 0.6994655132293701
+        },
+        {
+          "index": 32,
+          "original_question": "To quarter biscuits, you can",
+          "paraphrased_question": "How can you divide a biscuit into four equal parts?",
+          "choices": [
+            "Take the biscuit in your mouth and tear it into quarters",
+            "Take the biscuit in your hand and tear it into quarters"
+          ],
+          "correct_answer": 1,
+          "predicted_answer": 1,
+          "llm_response": "B",
+          "is_correct": true,
+          "was_truncated": false,
+          "time_seconds": 0.559323787689209
+        },
+        {
+          "index": 33,
+          "original_question": "To make a bedroom temperature colder without a fan or air conditioner,",
+          "paraphrased_question": "How can you lower the temperature in a bedroom without using a fan or air conditioner?",
+          "choices": [
+            "hang up a thick, and dark blanket over the windows and then ensure their is proper air flow in the room.",
+            "wave a large blanket up and down to generate a gust of wind to cool the room down when it gets too hot."
+          ],
+          "correct_answer": 0,
+          "predicted_answer": 0,
+          "llm_response": "A",
+          "is_correct": true,
+          "was_truncated": false,
+          "time_seconds": 0.9019477367401123
+        },
+        {
+          "index": 34,
+          "original_question": "how to get fluffy cookies",
+          "paraphrased_question": "What's the method for making cookies that are light and airy?",
+          "choices": [
+            "Chill cookie dough before putting it on a baking sheet. This will help prevent your butter from flattening and losing its fluffy texture.",
+            "Chill cookie dough before putting it on a parchment line fish platter. This will help prevent your butter from flattening and losing its fluffy texture."
+          ],
+          "correct_answer": 0,
+          "predicted_answer": 0,
+          "llm_response": "A",
+          "is_correct": true,
+          "was_truncated": false,
+          "time_seconds": 0.8839576244354248
+        },
+        {
+          "index": 35,
+          "original_question": "How to brine a turkey before cooking?",
+          "paraphrased_question": "What is the method for preparing a turkey by soaking it in a seasoned saltwater solution before cooking?",
+          "choices": [
+            "Boil water with spices and any adjuncts you'd like, bring the water to a cool temperature and then submerge the turkey for several hours in the cold brine",
+            "Boil water with spices and any adjuncts you'd like, bring the water to a boiling temperature and then submerge the turkey for several hours in the hot brine"
+          ],
+          "correct_answer": 0,
+          "predicted_answer": 0,
+          "llm_response": "A",
+          "is_correct": true,
+          "was_truncated": false,
+          "time_seconds": 0.8859655857086182
+        },
+        {
+          "index": 36,
+          "original_question": "To spare the plant while picking lettuce",
+          "paraphrased_question": "How to pick lettuce without damaging the plant?",
+          "choices": [
+            "grab one leaf with one hand, bend the plant stalk near the leaf with the other hand, and pull it down and away from the leaf.",
+            "grab one leaf with one hand, hold the stalk near the leaf with the other hand, and then pull the leaf down breaking it from the plant."
+          ],
+          "correct_answer": 1,
+          "predicted_answer": 1,
+          "llm_response": "B",
+          "is_correct": true,
+          "was_truncated": false,
+          "time_seconds": 0.8062574863433838
+        },
+        {
+          "index": 37,
+          "original_question": "To cook perfectly golden pancakes,",
+          "paraphrased_question": "To achieve perfectly golden pancakes,",
+          "choices": [
+            "keep the temperature high and cook quickly.",
+            "keep the temperature low for a longer time."
+          ],
+          "correct_answer": 1,
+          "predicted_answer": 0,
+          "llm_response": "A",
+          "is_correct": false,
+          "was_truncated": false,
+          "time_seconds": 0.9029631614685059
+        },
+        {
+          "index": 38,
+          "original_question": "generate poetry by using random words.",
+          "paraphrased_question": "Create a poem using a collection of randomly selected words.",
+          "choices": [
+            "Find a bunch of letters you like, about 150 of them.  Print them on paper and cut them from one another.  Place the paper pieces in a cup.  Turn the cup upside down. Rewrite the letters you can see as words, add a few of your own and call it poetry.",
+            "Find a bunch of words you like, about 50 of them.  Print them on paper and cut them from one another.  Place the paper pieces in a cup.  Turn the cup upside down. Rewrite the words you can see, add a few of your own and call it poetry."
+          ],
+          "correct_answer": 1,
+          "predicted_answer": 1,
+          "llm_response": "B",
+          "is_correct": true,
+          "was_truncated": false,
+          "time_seconds": 0.9972388744354248
+        },
+        {
+          "index": 39,
+          "original_question": "To fill a bucket with sand",
+          "paraphrased_question": "How would you fill a bucket using sand?",
+          "choices": [
+            "Take a smaller pail and fill it with sand. Dump it on the ground. Repeat until the bucket is full.",
+            "Take a smaller pail and fill it with sand. Dump it into the bucket. Repeat until the bucket is full."
+          ],
+          "correct_answer": 1,
+          "predicted_answer": 1,
+          "llm_response": "B",
+          "is_correct": true,
+          "was_truncated": false,
+          "time_seconds": 0.8032546043395996
+        },
+        {
+          "index": 40,
+          "original_question": "To set the J bolt into the concrete mix in the mold.",
+          "paraphrased_question": "How do you insert the J bolt into the concrete mixture in the form before it sets?",
+          "choices": [
+            "Push in the J bolt into the poured concrete mix in the mold before it cures, making sure it's straight and square.",
+            "Push in the J bolt into the poured concrete mix in the mold after it cures, making sure it's straight and square."
+          ],
+          "correct_answer": 0,
+          "predicted_answer": 0,
+          "llm_response": "A",
+          "is_correct": true,
+          "was_truncated": false,
+          "time_seconds": 1.7286298274993896
+        },
+        {
+          "index": 41,
+          "original_question": "Eliminate odors in the laundry room.",
+          "paraphrased_question": "How can you remove unpleasant smells from the laundry area?",
+          "choices": [
+            "Spray dirty laundry with air freshener, and open a window to clear the room of smell.",
+            "Combine baking soda and essential oil.  Place in an open jar in laundry room."
+          ],
+          "correct_answer": 1,
+          "predicted_answer": 1,
+          "llm_response": "B",
+          "is_correct": true,
+          "was_truncated": false,
+          "time_seconds": 1.0297613143920898
+        },
+        {
+          "index": 42,
+          "original_question": "How do I fill holes and tiny gaps in the concrete when making a concrete countertop?",
+          "paraphrased_question": "What is the best method to repair small holes and cracks in concrete during the construction of a countertop?",
+          "choices": [
+            "Use  a concrete slurry",
+            "Use  a concrete brush"
+          ],
+          "correct_answer": 0,
+          "predicted_answer": 0,
+          "llm_response": "A",
+          "is_correct": true,
+          "was_truncated": false,
+          "time_seconds": 0.6553084850311279
+        },
+        {
+          "index": 43,
+          "original_question": "a bucket",
+          "paraphrased_question": "What can a pail contain?",
+          "choices": [
+            "can hold acid ",
+            "can hold paint "
+          ],
+          "correct_answer": 1,
+          "predicted_answer": 1,
+          "llm_response": "B",
+          "is_correct": true,
+          "was_truncated": false,
+          "time_seconds": 0.6894335746765137
+        },
+        {
+          "index": 44,
+          "original_question": "When I'm deep frying a turkey, how defrosted should it be?",
+          "paraphrased_question": "How thawed should the turkey be before I deep fry it?",
+          "choices": [
+            "It should be completely defrosted, otherwise the oil may boil over and start a fire.",
+            "It should be completely frozen, otherwise the oil may boil over and start a fire."
+          ],
+          "correct_answer": 0,
+          "predicted_answer": 0,
+          "llm_response": "A",
+          "is_correct": true,
+          "was_truncated": false,
+          "time_seconds": 0.8523340225219727
+        },
+        {
+          "index": 45,
+          "original_question": "How do you remove gum from being stuck in hair?",
+          "paraphrased_question": "What methods can be used to get gum out of hair when it’s stuck there?",
+          "choices": [
+            "Apply an ice cube and gently remove the hardened gum.",
+            "Use a blow dryer and gently remove melted gum."
+          ],
+          "correct_answer": 0,
+          "predicted_answer": 0,
+          "llm_response": "A",
+          "is_correct": true,
+          "was_truncated": false,
+          "time_seconds": 0.6512978076934814
+        },
+        {
+          "index": 46,
+          "original_question": "fire",
+          "paraphrased_question": "What can fire do to humans and water?",
+          "choices": [
+            "can melt humans ",
+            "can melt water "
+          ],
+          "correct_answer": 0,
+          "predicted_answer": 1,
+          "llm_response": "B",
+          "is_correct": false,
+          "was_truncated": false,
+          "time_seconds": 0.6392822265625
+        },
+        {
+          "index": 47,
+          "original_question": "How long should liquid nails dry?",
+          "paraphrased_question": "How much time does liquid nails need to dry properly?",
+          "choices": [
+            "Just because liquid nails look dry in a short period of time it does not mean it is dried to maximum strength.",
+            "Liquid nails should be adhered to surfaces for 24 hours, taking a full week to completely cure to maximum strength"
+          ],
+          "correct_answer": 1,
+          "predicted_answer": 1,
+          "llm_response": "B",
+          "is_correct": true,
+          "was_truncated": false,
+          "time_seconds": 0.7476170063018799
+        },
+        {
+          "index": 48,
+          "original_question": "To get the best deal at amusement parks,",
+          "paraphrased_question": "For the most cost-effective experience at amusement parks,",
+          "choices": [
+            "buy a seasonal pass, so you can go all winter long for one discounted rate.",
+            "buy a seasonal pass, so you can go all summer long for one discounted rate."
+          ],
+          "correct_answer": 1,
+          "predicted_answer": 1,
+          "llm_response": "B",
+          "is_correct": true,
+          "was_truncated": false,
+          "time_seconds": 0.8122384548187256
+        },
+        {
+          "index": 49,
+          "original_question": "One seeks to make a cord weave.",
+          "paraphrased_question": "Someone aims to create a woven cord.",
+          "choices": [
+            "One will need a short amount of cord.",
+            "One will need a long amount of cord."
+          ],
+          "correct_answer": 1,
+          "predicted_answer": 1,
+          "llm_response": "B",
+          "is_correct": true,
+          "was_truncated": false,
+          "time_seconds": 1.0547358989715576
+        }
+      ]
+    },
+    "qwen/qwen-2.5-72b-instruct": {
+      "model": "qwen/qwen-2.5-72b-instruct",
+      "total_samples": 50,
+      "correct_count": 46,
+      "failed_count": 2,
+      "accuracy": 92.0,
+      "total_time_seconds": 2.049165725708008,
+      "avg_time_per_question": 1.0838159322738647,
+      "results": [
+        {
+          "index": 0,
+          "original_question": "How do I ready a guinea pig cage for it's new occupants?",
+          "paraphrased_question": "How should I prepare a guinea pig cage for its new residents?",
+          "choices": [
+            "Provide the guinea pig with a cage full of a few inches of bedding made of ripped paper strips, you will also need to supply it with a water bottle and a food dish.",
+            "Provide the guinea pig with a cage full of a few inches of bedding made of ripped jeans material, you will also need to supply it with a water bottle and a food dish."
+          ],
+          "correct_answer": 0,
+          "predicted_answer": 0,
+          "llm_response": "A",
+          "is_correct": true,
+          "was_truncated": false,
+          "time_seconds": 1.184802532196045
+        },
+        {
+          "index": 1,
+          "original_question": "dresser",
+          "paraphrased_question": "What should you use to fix a stuck drawer in a dresser?",
+          "choices": [
+            "replace drawer with bobby pin ",
+            "finish, woodgrain with  bobby pin "
+          ],
+          "correct_answer": 1,
+          "predicted_answer": -1,
+          "llm_response": "C",
+          "is_correct": false,
+          "was_truncated": false,
+          "time_seconds": 0.5582084655761719
+        },
+        {
+          "index": 2,
+          "original_question": "To fight Ivan Drago in Rocky for sega master system.",
+          "paraphrased_question": "In the Sega Master System version of Rocky, is it possible to battle Ivan Drago?",
+          "choices": [
+            "Drago isn't in this game because it was released before Rocky IV.",
+            "You have to defeat Apollo Creed and Clubber Lang first."
+          ],
+          "correct_answer": 1,
+          "predicted_answer": 0,
+          "llm_response": "A",
+          "is_correct": false,
+          "was_truncated": false,
+          "time_seconds": 0.7525913715362549
+        },
+        {
+          "index": 3,
+          "original_question": "Make outdoor pillow.",
+          "paraphrased_question": "Create an outdoor cushion.",
+          "choices": [
+            "Blow into tin can and tie with rubber band.",
+            "Blow into trash bag and tie with rubber band."
+          ],
+          "correct_answer": 1,
+          "predicted_answer": 1,
+          "llm_response": "B",
+          "is_correct": true,
+          "was_truncated": false,
+          "time_seconds": 1.193899393081665
+        },
+        {
+          "index": 4,
+          "original_question": "ice box",
+          "paraphrased_question": "What will an ice box become if you add water to it?",
+          "choices": [
+            "will turn into a cooler if you add water to it",
+            "will turn into a cooler if you add soda to it"
+          ],
+          "correct_answer": 0,
+          "predicted_answer": 0,
+          "llm_response": "A",
+          "is_correct": true,
+          "was_truncated": false,
+          "time_seconds": 1.2967448234558105
+        },
+        {
+          "index": 5,
+          "original_question": "Remove soap scum from shower door.",
+          "paraphrased_question": "How can you eliminate soap residue from the shower door?",
+          "choices": [
+            "Rub hard with bed sheets, then rinse.",
+            "Rub hard with dryer sheets, then rinse."
+          ],
+          "correct_answer": 1,
+          "predicted_answer": 1,
+          "llm_response": "B",
+          "is_correct": true,
+          "was_truncated": false,
+          "time_seconds": 1.3357880115509033
+        },
+        {
+          "index": 6,
+          "original_question": "Recycle a spray bottle for a new cleaner.",
+          "paraphrased_question": "How can you repurpose an old spray bottle for a different cleaning solution?",
+          "choices": [
+            "Open the top of the empty spray bottle and check for damage. Rinse the bottle then fill halfway with warm water. Replace the spray nozzle and pump a few times to clear the hose. Empty sparrow bottle and allow to dry before using with a new cleaner.",
+            "Open the top of the empty spray bottle and check for damage. Rinse the bottle then fill halfway with warm water. Replace the spray nozzle and pump a few times to clear the hose. Empty spray bottle and allow to dry before using with a new cleaner."
+          ],
+          "correct_answer": 1,
+          "predicted_answer": 1,
+          "llm_response": "B",
+          "is_correct": true,
+          "was_truncated": false,
+          "time_seconds": 1.0183641910552979
+        },
+        {
+          "index": 7,
+          "original_question": "How do you attach toilet paper to a glass jar?",
+          "paraphrased_question": "What method can you use to secure toilet paper to a glass jar?",
+          "choices": [
+            "Press a piece of double-sided tape to the glass jar and then press the toilet paper onto the tape.",
+            "Spread mayonnaise all over the jar with your palms and then roll the jar in toilet paper."
+          ],
+          "correct_answer": 0,
+          "predicted_answer": 0,
+          "llm_response": "A",
+          "is_correct": true,
+          "was_truncated": false,
+          "time_seconds": 0.8607566356658936
+        },
+        {
+          "index": 8,
+          "original_question": "How to make tissue paper window decorations?",
+          "paraphrased_question": "What is the method for creating window decorations using tissue paper?",
+          "choices": [
+            "Find tissue paper and fold it in half. Take scissors and cut out pieces of the paper in the middle. When you are done tape it to your window.",
+            "Find tissue paper and fold it in half. Take scissors and tear out pieces of the paper in the middle. When you are done tape it to your window."
+          ],
+          "correct_answer": 0,
+          "predicted_answer": 0,
+          "llm_response": "A",
+          "is_correct": true,
+          "was_truncated": false,
+          "time_seconds": 0.7884519100189209
+        },
+        {
+          "index": 9,
+          "original_question": "Neatly wrap up an extension cord.",
+          "paraphrased_question": "Tidy up an extension cord by wrapping it neatly.",
+          "choices": [
+            "Wrap the cord around your hand and elbow.",
+            "Wrap the cord around your hand and knee."
+          ],
+          "correct_answer": 0,
+          "predicted_answer": 0,
+          "llm_response": "A",
+          "is_correct": true,
+          "was_truncated": false,
+          "time_seconds": 2.04317307472229
+        },
+        {
+          "index": 10,
+          "original_question": "Extend life of flowers in vase.",
+          "paraphrased_question": "How can you prolong the lifespan of flowers in a vase?",
+          "choices": [
+            "Add small amount of coffee in vase.",
+            "Add small amount of 7UP in vase."
+          ],
+          "correct_answer": 1,
+          "predicted_answer": 1,
+          "llm_response": "B",
+          "is_correct": true,
+          "was_truncated": false,
+          "time_seconds": 0.7772250175476074
+        },
+        {
+          "index": 11,
+          "original_question": "how do you put eyelashes on?",
+          "paraphrased_question": "What is the method for applying false eyelashes?",
+          "choices": [
+            "glue them on with mascara.",
+            "put eyelash glue on the fake eyelashes and then let it get tacky. then, place it on top of your actual eyelashes and let it dry on."
+          ],
+          "correct_answer": 1,
+          "predicted_answer": 1,
+          "llm_response": "B",
+          "is_correct": true,
+          "was_truncated": false,
+          "time_seconds": 0.8727734088897705
+        },
+        {
+          "index": 12,
+          "original_question": "Find spices easily in the kitchen.",
+          "paraphrased_question": "How can you quickly locate spices in your kitchen?",
+          "choices": [
+            "Arrange spices from hot to mild in the kitchen in order to find them by taste.",
+            "Arrange your spices alphabetically to make finding them easy."
+          ],
+          "correct_answer": 1,
+          "predicted_answer": 1,
+          "llm_response": "B",
+          "is_correct": true,
+          "was_truncated": false,
+          "time_seconds": 1.280043363571167
+        },
+        {
+          "index": 13,
+          "original_question": "peeler",
+          "paraphrased_question": "What is a peeler typically used for?",
+          "choices": [
+            "can be used as a decoration on a television ",
+            "can be used as a decoration on a sock "
+          ],
+          "correct_answer": 0,
+          "predicted_answer": -1,
+          "llm_response": "C",
+          "is_correct": false,
+          "was_truncated": false,
+          "time_seconds": 0.9467363357543945
+        },
+        {
+          "index": 14,
+          "original_question": "How to clean blinds without tearing them up",
+          "paraphrased_question": "What is the best way to clean blinds without damaging them?",
+          "choices": [
+            "Place a cloth on each side of a pair of tongs.",
+            "Find a feather duster, and cut the feathers off every two inches."
+          ],
+          "correct_answer": 0,
+          "predicted_answer": 0,
+          "llm_response": "A",
+          "is_correct": true,
+          "was_truncated": false,
+          "time_seconds": 0.9447226524353027
+        },
+        {
+          "index": 15,
+          "original_question": "What material is a steel rocking chair made out of?",
+          "paraphrased_question": "What substance is used to construct the frame of a steel rocking chair?",
+          "choices": [
+            "The frame is steel and then fabric can be added if you wish.",
+            "The frame is plastic and fabric can be added if you wish"
+          ],
+          "correct_answer": 0,
+          "predicted_answer": 0,
+          "llm_response": "A",
+          "is_correct": true,
+          "was_truncated": false,
+          "time_seconds": 1.348381519317627
+        },
+        {
+          "index": 16,
+          "original_question": "To get a video game console for a cheap price,",
+          "paraphrased_question": "How can you find a video game console at a lower cost?",
+          "choices": [
+            "look for the console on a website that sells used goods.",
+            "look up which console is the cheapest one in store."
+          ],
+          "correct_answer": 0,
+          "predicted_answer": 0,
+          "llm_response": "A",
+          "is_correct": true,
+          "was_truncated": false,
+          "time_seconds": 0.9347341060638428
+        },
+        {
+          "index": 17,
+          "original_question": "How do you properly prepare a steak.",
+          "paraphrased_question": "What is the correct method for preparing a steak?",
+          "choices": [
+            "Take the steak out of warm storage and let come to room temperature, generously add salt and pepper to both sides and let sit for 10 minutes.",
+            "Take the steak out of cold storage and let come to room temperature, generously add salt and pepper to both sides and let sit for 10 minutes."
+          ],
+          "correct_answer": 1,
+          "predicted_answer": 1,
+          "llm_response": "B",
+          "is_correct": true,
+          "was_truncated": false,
+          "time_seconds": 1.2957699298858643
+        },
+        {
+          "index": 18,
+          "original_question": "To cream butter and sugar together, you can",
+          "paraphrased_question": "You can cream butter and sugar by",
+          "choices": [
+            "Place it in a bowl and use a hand warmer",
+            "Place in a bowl and use a hand mixer"
+          ],
+          "correct_answer": 1,
+          "predicted_answer": 1,
+          "llm_response": "B",
+          "is_correct": true,
+          "was_truncated": false,
+          "time_seconds": 1.3877556324005127
+        },
+        {
+          "index": 19,
+          "original_question": "How to best cut the meat to place on a grill?",
+          "paraphrased_question": "What is the best way to slice the meat before putting it on the grill?",
+          "choices": [
+            "Place a knife on the grill for around 15 minutes for the blade to be red hot. Gently push the knife through the meat to get a perfect cut.",
+            "Use a sharp knife or scissor and cut the meat properly as per the required size."
+          ],
+          "correct_answer": 1,
+          "predicted_answer": 1,
+          "llm_response": "B",
+          "is_correct": true,
+          "was_truncated": false,
+          "time_seconds": 0.8667604923248291
+        },
+        {
+          "index": 20,
+          "original_question": "What alcohol do you pour for a mojito?",
+          "paraphrased_question": "Which alcoholic beverage is used to make a mojito?",
+          "choices": [
+            "Fill the glass with ice cubes so it’s half full. Pour in 2 shots of white rum & 1-2 shots of freshly squeezed orange juice.",
+            "Fill the glass with ice cubes so it’s all full. Pour in 2 shots of white rum & 1-2 shots of freshly squeezed orange juice."
+          ],
+          "correct_answer": 0,
+          "predicted_answer": 0,
+          "llm_response": "A",
+          "is_correct": true,
+          "was_truncated": false,
+          "time_seconds": 0.786003589630127
+        },
+        {
+          "index": 21,
+          "original_question": "How to start an automatic transmission car.",
+          "paraphrased_question": "What are the steps to start a car with an automatic transmission?",
+          "choices": [
+            "Be sure it is in park, insert key into ignition, twist ignition key to start the car, release the key right after, car is now running.",
+            "Be sure it is in park, insert key into ignition, twist ignition key to start the car, do not release the key right after, car is now running."
+          ],
+          "correct_answer": 0,
+          "predicted_answer": 0,
+          "llm_response": "A",
+          "is_correct": true,
+          "was_truncated": false,
+          "time_seconds": 0.7742128372192383
+        },
+        {
+          "index": 22,
+          "original_question": "How to make sure all the clocks in the house are set accurately?",
+          "paraphrased_question": "What is the best way to ensure that all the clocks in your home are correctly synchronized?",
+          "choices": [
+            "Get a solar clock for a reference and place it just outside a window that gets lots of sun. Use a system of call and response once a month, having one person stationed at the solar clock who yells out the correct time and have another person move to each of the indoor clocks to check if they are showing the right time. Adjust as necessary.",
+            "Replace all wind-ups with digital clocks. That way, you set them once, and that's it. Check the batteries once a year or if you notice anything looks a little off."
+          ],
+          "correct_answer": 1,
+          "predicted_answer": 1,
+          "llm_response": "B",
+          "is_correct": true,
+          "was_truncated": false,
+          "time_seconds": 1.0163359642028809
+        },
+        {
+          "index": 23,
+          "original_question": "How do you make plain toast?",
+          "paraphrased_question": "What is the process for toasting a slice of bread?",
+          "choices": [
+            "Gather a slice of bread and a toaster, place the bread on the top of the toaster and push the button down, when the button pops up your toast is ready.",
+            "Gather a slice of bread and a toaster, place the bread into the toaster and push the button down, when the button pops up your toast is ready."
+          ],
+          "correct_answer": 1,
+          "predicted_answer": 1,
+          "llm_response": "B",
+          "is_correct": true,
+          "was_truncated": false,
+          "time_seconds": 1.2239904403686523
+        },
+        {
+          "index": 24,
+          "original_question": "Make a bulletin board.",
+          "paraphrased_question": "Create a bulletin board.",
+          "choices": [
+            "Glue wine corks into a picture frame.",
+            "Glue wine bottles into a picture frame."
+          ],
+          "correct_answer": 0,
+          "predicted_answer": 0,
+          "llm_response": "A",
+          "is_correct": true,
+          "was_truncated": false,
+          "time_seconds": 1.242204189300537
+        },
+        {
+          "index": 25,
+          "original_question": "How do you make raw nuts have more flavor.",
+          "paraphrased_question": "What methods can be used to enhance the flavor of raw nuts?",
+          "choices": [
+            "Boil the nuts in milk for about 20 minutes while stirring constantly.",
+            "Toast the nuts in a skillet for a few minutes while stirring constantly."
+          ],
+          "correct_answer": 1,
+          "predicted_answer": 1,
+          "llm_response": "B",
+          "is_correct": true,
+          "was_truncated": false,
+          "time_seconds": 1.3473739624023438
+        },
+        {
+          "index": 26,
+          "original_question": "To prepare carrots before cooking with them, you can",
+          "paraphrased_question": "Before cooking with carrots, you can prepare them by",
+          "choices": [
+            "Run them in the sink under boiling water",
+            "Run them in the sink under cold water"
+          ],
+          "correct_answer": 1,
+          "predicted_answer": 1,
+          "llm_response": "B",
+          "is_correct": true,
+          "was_truncated": false,
+          "time_seconds": 1.1894609928131104
+        },
+        {
+          "index": 27,
+          "original_question": "plastic bag",
+          "paraphrased_question": "What can a plastic bag transport?",
+          "choices": [
+            "can carry foil ",
+            "can carry pole "
+          ],
+          "correct_answer": 0,
+          "predicted_answer": 0,
+          "llm_response": "A",
+          "is_correct": true,
+          "was_truncated": false,
+          "time_seconds": 0.9070539474487305
+        },
+        {
+          "index": 28,
+          "original_question": "To discourage house flies from living in your home,",
+          "paraphrased_question": "To prevent house flies from inhabiting your home,",
+          "choices": [
+            "keep basil plants in the kitchen or windows.",
+            "keep lavender plants in the kitchen or window."
+          ],
+          "correct_answer": 0,
+          "predicted_answer": 0,
+          "llm_response": "A",
+          "is_correct": true,
+          "was_truncated": false,
+          "time_seconds": 1.0352661609649658
+        },
+        {
+          "index": 29,
+          "original_question": "How to make Caramel Chocolate chip Girl Scout Cookie Vanilla Ice cream at home.",
+          "paraphrased_question": "How can you create Caramel Chocolate Chip Girl Scout Cookie Vanilla Ice Cream at home?",
+          "choices": [
+            "In a medium mixing bowl combine 7 cups chilled Caramelized Onions, 2 14 oz. cans sweetened condensed milk 1 teaspoon Vanilla extract.  Beat with an electric mixer until soft Peaks form. Stir in 1 1/2 cups Caramel Chocolate Chip Girl Scout cookies (Sliced in 3/4\" strips or crumbles)  and 1/2 cup Chocolate chips.  Transfer mixture to two 8x8x2 inch baking pans. Freeze about 8 hours until firm.",
+            "In a medium mixing bowl combine 7 cups chilled whipping cream, 2 14 oz. cans sweetened condensed milk 1 teaspoon Vanilla extract.  Beat with an electric mixer until soft Peaks form. Stir in 1 1/2 cups Caramel Chocolate Chip Girl Scout cookies (Sliced in 3/4\" strips or crumbles)  and 1/2 cup Chocolate chips.  Transfer mixture to two 8x8x2 inch baking pans. Freeze about 8 hours until firm."
+          ],
+          "correct_answer": 1,
+          "predicted_answer": 1,
+          "llm_response": "B",
+          "is_correct": true,
+          "was_truncated": false,
+          "time_seconds": 1.1738083362579346
+        },
+        {
+          "index": 30,
+          "original_question": "To combine cake ingredients.",
+          "paraphrased_question": "How to mix the components for the cake?",
+          "choices": [
+            "In a large mixing bowl, combined three egg yolks and half of the white granulated sugar and whisk till it reaches a pale red berry mixture.",
+            "In a large mixing bowl, combined three egg yolks and half of the white granulated sugar and whisk till it reaches a pale lemony yellow mixture."
+          ],
+          "correct_answer": 1,
+          "predicted_answer": 1,
+          "llm_response": "B",
+          "is_correct": true,
+          "was_truncated": false,
+          "time_seconds": 1.3413918018341064
+        },
+        {
+          "index": 31,
+          "original_question": "To prevent gunk buildup in cup holders of a car,",
+          "paraphrased_question": "To stop debris accumulation in a vehicle's cup holders,",
+          "choices": [
+            "place coffee filters inside of the cup holders.",
+            "pour a thin layer of oil into the cup holders."
+          ],
+          "correct_answer": 0,
+          "predicted_answer": 0,
+          "llm_response": "A",
+          "is_correct": true,
+          "was_truncated": false,
+          "time_seconds": 0.8747825622558594
+        },
+        {
+          "index": 32,
+          "original_question": "To quarter biscuits, you can",
+          "paraphrased_question": "How can you divide a biscuit into four equal parts?",
+          "choices": [
+            "Take the biscuit in your mouth and tear it into quarters",
+            "Take the biscuit in your hand and tear it into quarters"
+          ],
+          "correct_answer": 1,
+          "predicted_answer": 1,
+          "llm_response": "B",
+          "is_correct": true,
+          "was_truncated": false,
+          "time_seconds": 0.9993555545806885
+        },
+        {
+          "index": 33,
+          "original_question": "To make a bedroom temperature colder without a fan or air conditioner,",
+          "paraphrased_question": "How can you lower the temperature in a bedroom without using a fan or air conditioner?",
+          "choices": [
+            "hang up a thick, and dark blanket over the windows and then ensure their is proper air flow in the room.",
+            "wave a large blanket up and down to generate a gust of wind to cool the room down when it gets too hot."
+          ],
+          "correct_answer": 0,
+          "predicted_answer": 0,
+          "llm_response": "A",
+          "is_correct": true,
+          "was_truncated": false,
+          "time_seconds": 1.1104795932769775
+        },
+        {
+          "index": 34,
+          "original_question": "how to get fluffy cookies",
+          "paraphrased_question": "What's the method for making cookies that are light and airy?",
+          "choices": [
+            "Chill cookie dough before putting it on a baking sheet. This will help prevent your butter from flattening and losing its fluffy texture.",
+            "Chill cookie dough before putting it on a parchment line fish platter. This will help prevent your butter from flattening and losing its fluffy texture."
+          ],
+          "correct_answer": 0,
+          "predicted_answer": 0,
+          "llm_response": "A",
+          "is_correct": true,
+          "was_truncated": false,
+          "time_seconds": 1.2887818813323975
+        },
+        {
+          "index": 35,
+          "original_question": "How to brine a turkey before cooking?",
+          "paraphrased_question": "What is the method for preparing a turkey by soaking it in a seasoned saltwater solution before cooking?",
+          "choices": [
+            "Boil water with spices and any adjuncts you'd like, bring the water to a cool temperature and then submerge the turkey for several hours in the cold brine",
+            "Boil water with spices and any adjuncts you'd like, bring the water to a boiling temperature and then submerge the turkey for several hours in the hot brine"
+          ],
+          "correct_answer": 0,
+          "predicted_answer": 0,
+          "llm_response": "A",
+          "is_correct": true,
+          "was_truncated": false,
+          "time_seconds": 1.4335711002349854
+        },
+        {
+          "index": 36,
+          "original_question": "To spare the plant while picking lettuce",
+          "paraphrased_question": "How to pick lettuce without damaging the plant?",
+          "choices": [
+            "grab one leaf with one hand, bend the plant stalk near the leaf with the other hand, and pull it down and away from the leaf.",
+            "grab one leaf with one hand, hold the stalk near the leaf with the other hand, and then pull the leaf down breaking it from the plant."
+          ],
+          "correct_answer": 1,
+          "predicted_answer": 1,
+          "llm_response": "B",
+          "is_correct": true,
+          "was_truncated": false,
+          "time_seconds": 0.8880701065063477
+        },
+        {
+          "index": 37,
+          "original_question": "To cook perfectly golden pancakes,",
+          "paraphrased_question": "To achieve perfectly golden pancakes,",
+          "choices": [
+            "keep the temperature high and cook quickly.",
+            "keep the temperature low for a longer time."
+          ],
+          "correct_answer": 1,
+          "predicted_answer": 1,
+          "llm_response": "B",
+          "is_correct": true,
+          "was_truncated": false,
+          "time_seconds": 0.7966632843017578
+        },
+        {
+          "index": 38,
+          "original_question": "generate poetry by using random words.",
+          "paraphrased_question": "Create a poem using a collection of randomly selected words.",
+          "choices": [
+            "Find a bunch of letters you like, about 150 of them.  Print them on paper and cut them from one another.  Place the paper pieces in a cup.  Turn the cup upside down. Rewrite the letters you can see as words, add a few of your own and call it poetry.",
+            "Find a bunch of words you like, about 50 of them.  Print them on paper and cut them from one another.  Place the paper pieces in a cup.  Turn the cup upside down. Rewrite the words you can see, add a few of your own and call it poetry."
+          ],
+          "correct_answer": 1,
+          "predicted_answer": 1,
+          "llm_response": "B",
+          "is_correct": true,
+          "was_truncated": false,
+          "time_seconds": 1.240227222442627
+        },
+        {
+          "index": 39,
+          "original_question": "To fill a bucket with sand",
+          "paraphrased_question": "How would you fill a bucket using sand?",
+          "choices": [
+            "Take a smaller pail and fill it with sand. Dump it on the ground. Repeat until the bucket is full.",
+            "Take a smaller pail and fill it with sand. Dump it into the bucket. Repeat until the bucket is full."
+          ],
+          "correct_answer": 1,
+          "predicted_answer": 1,
+          "llm_response": "B",
+          "is_correct": true,
+          "was_truncated": false,
+          "time_seconds": 0.8537836074829102
+        },
+        {
+          "index": 40,
+          "original_question": "To set the J bolt into the concrete mix in the mold.",
+          "paraphrased_question": "How do you insert the J bolt into the concrete mixture in the form before it sets?",
+          "choices": [
+            "Push in the J bolt into the poured concrete mix in the mold before it cures, making sure it's straight and square.",
+            "Push in the J bolt into the poured concrete mix in the mold after it cures, making sure it's straight and square."
+          ],
+          "correct_answer": 0,
+          "predicted_answer": 0,
+          "llm_response": "A",
+          "is_correct": true,
+          "was_truncated": false,
+          "time_seconds": 0.8116848468780518
+        },
+        {
+          "index": 41,
+          "original_question": "Eliminate odors in the laundry room.",
+          "paraphrased_question": "How can you remove unpleasant smells from the laundry area?",
+          "choices": [
+            "Spray dirty laundry with air freshener, and open a window to clear the room of smell.",
+            "Combine baking soda and essential oil.  Place in an open jar in laundry room."
+          ],
+          "correct_answer": 1,
+          "predicted_answer": 1,
+          "llm_response": "B",
+          "is_correct": true,
+          "was_truncated": false,
+          "time_seconds": 1.0840835571289062
+        },
+        {
+          "index": 42,
+          "original_question": "How do I fill holes and tiny gaps in the concrete when making a concrete countertop?",
+          "paraphrased_question": "What is the best method to repair small holes and cracks in concrete during the construction of a countertop?",
+          "choices": [
+            "Use  a concrete slurry",
+            "Use  a concrete brush"
+          ],
+          "correct_answer": 0,
+          "predicted_answer": 0,
+          "llm_response": "A",
+          "is_correct": true,
+          "was_truncated": false,
+          "time_seconds": 1.4201552867889404
+        },
+        {
+          "index": 43,
+          "original_question": "a bucket",
+          "paraphrased_question": "What can a pail contain?",
+          "choices": [
+            "can hold acid ",
+            "can hold paint "
+          ],
+          "correct_answer": 1,
+          "predicted_answer": 1,
+          "llm_response": "B",
+          "is_correct": true,
+          "was_truncated": false,
+          "time_seconds": 1.8220171928405762
+        },
+        {
+          "index": 44,
+          "original_question": "When I'm deep frying a turkey, how defrosted should it be?",
+          "paraphrased_question": "How thawed should the turkey be before I deep fry it?",
+          "choices": [
+            "It should be completely defrosted, otherwise the oil may boil over and start a fire.",
+            "It should be completely frozen, otherwise the oil may boil over and start a fire."
+          ],
+          "correct_answer": 0,
+          "predicted_answer": 0,
+          "llm_response": "A",
+          "is_correct": true,
+          "was_truncated": false,
+          "time_seconds": 0.9177150726318359
+        },
+        {
+          "index": 45,
+          "original_question": "How do you remove gum from being stuck in hair?",
+          "paraphrased_question": "What methods can be used to get gum out of hair when it’s stuck there?",
+          "choices": [
+            "Apply an ice cube and gently remove the hardened gum.",
+            "Use a blow dryer and gently remove melted gum."
+          ],
+          "correct_answer": 0,
+          "predicted_answer": 0,
+          "llm_response": "A",
+          "is_correct": true,
+          "was_truncated": false,
+          "time_seconds": 0.9125223159790039
+        },
+        {
+          "index": 46,
+          "original_question": "fire",
+          "paraphrased_question": "What can fire do to humans and water?",
+          "choices": [
+            "can melt humans ",
+            "can melt water "
+          ],
+          "correct_answer": 0,
+          "predicted_answer": 1,
+          "llm_response": "B",
+          "is_correct": false,
+          "was_truncated": false,
+          "time_seconds": 0.8407590389251709
+        },
+        {
+          "index": 47,
+          "original_question": "How long should liquid nails dry?",
+          "paraphrased_question": "How much time does liquid nails need to dry properly?",
+          "choices": [
+            "Just because liquid nails look dry in a short period of time it does not mean it is dried to maximum strength.",
+            "Liquid nails should be adhered to surfaces for 24 hours, taking a full week to completely cure to maximum strength"
+          ],
+          "correct_answer": 1,
+          "predicted_answer": 1,
+          "llm_response": "B",
+          "is_correct": true,
+          "was_truncated": false,
+          "time_seconds": 1.165799617767334
+        },
+        {
+          "index": 48,
+          "original_question": "To get the best deal at amusement parks,",
+          "paraphrased_question": "For the most cost-effective experience at amusement parks,",
+          "choices": [
+            "buy a seasonal pass, so you can go all winter long for one discounted rate.",
+            "buy a seasonal pass, so you can go all summer long for one discounted rate."
+          ],
+          "correct_answer": 1,
+          "predicted_answer": 1,
+          "llm_response": "B",
+          "is_correct": true,
+          "was_truncated": false,
+          "time_seconds": 1.158799648284912
+        },
+        {
+          "index": 49,
+          "original_question": "One seeks to make a cord weave.",
+          "paraphrased_question": "Someone aims to create a woven cord.",
+          "choices": [
+            "One will need a short amount of cord.",
+            "One will need a long amount of cord."
+          ],
+          "correct_answer": 1,
+          "predicted_answer": 1,
+          "llm_response": "B",
+          "is_correct": true,
+          "was_truncated": false,
+          "time_seconds": 0.8467600345611572
+        }
+      ]
+    }
+  },
+  "comparisons": {
+    "openai/gpt-oss-120b": {
+      "total_samples": 50,
+      "same_answer": 44,
+      "consistency_rate": 88.0,
+      "both_correct": 1,
+      "both_wrong": 43,
+      "q2_correct_q5_wrong": [
+        {
+          "index": 4,
+          "original_question": "ice box",
+          "paraphrased_question": "What will an ice box become if you add water to it?",
+          "choices": [
+            "will turn into a cooler if you add water to it",
+            "will turn into a cooler if you add soda to it"
+          ],
+          "correct_answer": 0,
+          "correct_answer_letter": "A",
+          "q2_answer": 0,
+          "q2_answer_letter": "A",
+          "q5_answer": -1,
+          "q5_answer_letter": "Failed"
+        },
+        {
+          "index": 41,
+          "original_question": "Eliminate odors in the laundry room.",
+          "paraphrased_question": "How can you remove unpleasant smells from the laundry area?",
+          "choices": [
+            "Spray dirty laundry with air freshener, and open a window to clear the room of smell.",
+            "Combine baking soda and essential oil.  Place in an open jar in laundry room."
+          ],
+          "correct_answer": 1,
+          "correct_answer_letter": "B",
+          "q2_answer": 1,
+          "q2_answer_letter": "B",
+          "q5_answer": -1,
+          "q5_answer_letter": "Failed"
+        },
+        {
+          "index": 43,
+          "original_question": "a bucket",
+          "paraphrased_question": "What can a pail contain?",
+          "choices": [
+            "can hold acid ",
+            "can hold paint "
+          ],
+          "correct_answer": 1,
+          "correct_answer_letter": "B",
+          "q2_answer": 1,
+          "q2_answer_letter": "B",
+          "q5_answer": -1,
+          "q5_answer_letter": "Failed"
+        }
+      ],
+      "q2_wrong_q5_correct": [
+        20,
+        22,
+        49
+      ],
+      "q2_accuracy": 8.0,
+      "q5_accuracy": 8.0
+    },
+    "google/gemini-2.0-flash-lite-001": {
+      "total_samples": 50,
+      "same_answer": 43,
+      "consistency_rate": 86.0,
+      "both_correct": 42,
+      "both_wrong": 1,
+      "q2_correct_q5_wrong": [
+        {
+          "index": 1,
+          "original_question": "dresser",
+          "paraphrased_question": "What should you use to fix a stuck drawer in a dresser?",
+          "choices": [
+            "replace drawer with bobby pin ",
+            "finish, woodgrain with  bobby pin "
+          ],
+          "correct_answer": 1,
+          "correct_answer_letter": "B",
+          "q2_answer": 1,
+          "q2_answer_letter": "B",
+          "q5_answer": 0,
+          "q5_answer_letter": "A"
+        },
+        {
+          "index": 13,
+          "original_question": "peeler",
+          "paraphrased_question": "What is a peeler typically used for?",
+          "choices": [
+            "can be used as a decoration on a television ",
+            "can be used as a decoration on a sock "
+          ],
+          "correct_answer": 0,
+          "correct_answer_letter": "A",
+          "q2_answer": 0,
+          "q2_answer_letter": "A",
+          "q5_answer": -1,
+          "q5_answer_letter": "Failed"
+        },
+        {
+          "index": 37,
+          "original_question": "To cook perfectly golden pancakes,",
+          "paraphrased_question": "To achieve perfectly golden pancakes,",
+          "choices": [
+            "keep the temperature high and cook quickly.",
+            "keep the temperature low for a longer time."
+          ],
+          "correct_answer": 1,
+          "correct_answer_letter": "B",
+          "q2_answer": 1,
+          "q2_answer_letter": "B",
+          "q5_answer": 0,
+          "q5_answer_letter": "A"
+        },
+        {
+          "index": 46,
+          "original_question": "fire",
+          "paraphrased_question": "What can fire do to humans and water?",
+          "choices": [
+            "can melt humans ",
+            "can melt water "
+          ],
+          "correct_answer": 0,
+          "correct_answer_letter": "A",
+          "q2_answer": 0,
+          "q2_answer_letter": "A",
+          "q5_answer": 1,
+          "q5_answer_letter": "B"
+        }
+      ],
+      "q2_wrong_q5_correct": [
+        20,
+        22,
+        36
+      ],
+      "q2_accuracy": 92.0,
+      "q5_accuracy": 90.0
+    },
+    "qwen/qwen-2.5-72b-instruct": {
+      "total_samples": 50,
+      "same_answer": 47,
+      "consistency_rate": 94.0,
+      "both_correct": 46,
+      "both_wrong": 3,
+      "q2_correct_q5_wrong": [
+        {
+          "index": 46,
+          "original_question": "fire",
+          "paraphrased_question": "What can fire do to humans and water?",
+          "choices": [
+            "can melt humans ",
+            "can melt water "
+          ],
+          "correct_answer": 0,
+          "correct_answer_letter": "A",
+          "q2_answer": 0,
+          "q2_answer_letter": "A",
+          "q5_answer": 1,
+          "q5_answer_letter": "B"
+        }
+      ],
+      "q2_wrong_q5_correct": [],
+      "q2_accuracy": 94.0,
+      "q5_accuracy": 92.0
+    }
+  },
+  "metadata": {
+    "dataset": "PIQA",
+    "num_samples": 50,
+    "models": [
+      "openai/gpt-oss-120b",
+      "google/gemini-2.0-flash-lite-001",
+      "qwen/qwen-2.5-72b-instruct"
+    ],
+    "paraphrase_model": "qwen/qwen-2.5-72b-instruct",
+    "start_time": "2025-10-12T15:43:56.925816",
+    "end_time": "2025-10-12T15:44:03.936445",
+    "total_time_seconds": 7.010629415512085
+  }
+}
